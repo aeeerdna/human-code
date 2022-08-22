@@ -1,0 +1,33 @@
+5.Comprare qualcosa su Amazon 
+Il regalo perfetto 
+Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacerebbe sorprenderla, so che le piaceva tanto quella lampada da tavolo così particolare, però la consegna non è Prime e non arriverebbe mai in tempo! Potrei optare per una bella stilografica ma sicuramente sforo il budget, forse è meglio optare per un buon libro: un classico ma so che con lei vado sul sicuro! 
+
+SVOLGIMENTO:
+
+Accedo alla piattaforma di Amazon
+
+Cerca QUELLA particolare lampada da tavolo che piace a Silvia
+
+SE la lampada è "Prime"
+ALLORA
+    effettua l'acquisto
+ALTRIMENTI
+    ricerca penna stilografica
+
+    SE prezzo è minore del budget
+    ALLORA
+        acquisto la penna stilografica
+    ALTRIMENTI
+        ricerca libro
+
+        FINCHè NON trovo il libro di genere classico che possa piacere a Silvia
+
+        osservo i prodotti disponibili nel catalogo
+
+        SE trovo il libro che piace a Silvia
+        ALLORA
+            compro il libro
+        ALTRIMENTI
+            vedo il libro successivo
+
+
